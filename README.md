@@ -13,4 +13,3 @@ Docker Desktop をインストールしたら、さっそく Dockerを動かし�
 
 [Get Started - 始めましょう](https://docs.docker.jp/v20.10/get-started/toc.html)
 
-https://docs.docker.jp/v20.10/get-started/toc.html
