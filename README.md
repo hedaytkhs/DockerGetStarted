@@ -25,19 +25,19 @@ Docker Desktop をインストールしたら、さっそく Dockerを動かし�
 ### Node.js のイメージを作ってコンテナーを実行してみる
 [日本語のドキュメント](https://docs.docker.jp/v20.10/language/nodejs/toc.html)
 
-[GitHub リポジトリからサンプルをクローンして Node.js のイメージを作ってコンテナーを実行してみる](https://docs.docker.com/language/nodejs/containerize/)
+[GitHub リポジトリからサンプルをクローンして Node.js のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/nodejs/containerize/)
 
 ### python のイメージを作ってコンテナーを実行してみる
 [日本語のドキュメント](https://docs.docker.jp/v20.10/language/python/toc.html)
 
-[GitHub リポジトリからサンプルをクローンして python のイメージを作ってコンテナーを実行してみる](https://docs.docker.com/language/python/containerize/)
+[GitHub リポジトリからサンプルをクローンして python のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/python/containerize/)
 
 ### .NET のイメージを作ってコンテナーを実行してみる
-[GitHub リポジトリからサンプルをクローンして .NET のイメージを作ってコンテナーを実行してみる](https://docs.docker.com/language/dotnet/containerize/)
+[GitHub リポジトリからサンプルをクローンして .NET のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/dotnet/containerize/)
 
 ### Java のイメージを作ってコンテナーを実行してみる
-[GitHub リポジトリからサンプルをクローンして Java (Spring project) のイメージを作ってコンテナーを実行してみる](https://docs.docker.com/language/java/build-images/)
+[GitHub リポジトリからサンプルをクローンして Java (Spring project) のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/java/build-images/)
 
 ### PHP のイメージを作ってコンテナーを実行してみる
-[GitHub リポジトリからサンプルをクローンして PHP のイメージを作ってコンテナーを実行してみる](https://docs.docker.com/language/php/containerize/)
+[GitHub リポジトリからサンプルをクローンして PHP のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/php/containerize/)
 
