@@ -41,3 +41,8 @@ Docker Desktop をインストールしたら、さっそく Dockerを動かし�
 ### PHP のイメージを作ってコンテナーを実行してみる
 [GitHub リポジトリからサンプルをクローンして PHP のイメージを作ってコンテナーを実行してみる(英語)](https://docs.docker.com/language/php/containerize/)
 
+
+## 感想など
+このページをご覧になって Docker を試してみた方がいらっしゃったら、ディスカッションへコメントいただけるとうれしいです。
+
+[このリポジトリのディスカッション](https://github.com/hedaytkhs/DockerGetStarted/discussions)
